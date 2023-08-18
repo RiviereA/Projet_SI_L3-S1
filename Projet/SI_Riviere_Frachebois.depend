@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1510921838 source:/home3/tf872254/Desktop/Code_SI_Riviere_Frachebois/SI_Riviere_Frachebois/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
+1510922670 source:/home3/tf872254/Desktop/SI_Riviere_Frachebois/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
+1510926662 source:/media/ar948052/F497-08BC/SI_Riviere_Frachebois/Projet/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
