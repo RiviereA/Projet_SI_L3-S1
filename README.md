@@ -1,4 +1,4 @@
-# Projet de Synthèse d'Images (Licence 3 - semestre 1)
+# Projet de Synthèse d'Images (Licence 3 - Semestre 1)
 
 Le but de ce projet était de modéliser un personnage (points, lignes, polygones, primitives), de l'habiller
 (couleurs, textures) et de l'animer. Cela incluait donc :
